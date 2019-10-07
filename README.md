@@ -2,7 +2,7 @@
 
 A nicer look at your GitHub Profile! With charts!
 
-![demo](https://github.com/TeAmP0is0N/BetaProfile/blob/master/static/beta.png)
+![demo](https://github.com/TeAmP0is0N/BetaProfile/blob/master/static/og.png)
 
 Built with:
 
