@@ -1,6 +1,7 @@
 # BetaProfile
 
 A nicer look at your GitHub Profile! With charts!
+[Live Version](betaprofile.glob4lh3ll.now.sh)
 
 ![demo](https://github.com/TeAmP0is0N/BetaProfile/blob/master/static/og.png)
 
