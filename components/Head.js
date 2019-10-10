@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 
 const defaultTitle = 'BetaProfile';
 const defaultDescription = 'A nicer look at your GitHub profile. With charts!';
-const defaultOGURL = 'https://betaprofile.glob4lh3ll.now.sh';
-const defaultOGImage = 'https://betaprofile.glob4lh3ll.now.sh/static/og.png';
+const defaultOGURL = 'https://betaprofile-teamp0is0n.now.sh/';
+const defaultOGImage = 'https://github.com/TeAmP0is0N/BetaProfile/blob/master/static/og.png';
 
 const Head = props => (
   <NextHead>
