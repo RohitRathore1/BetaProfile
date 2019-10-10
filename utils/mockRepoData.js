@@ -3097,7 +3097,7 @@ export default [
     ssh_url: 'git@github.com:bchiang7/BetaProfile.git',
     clone_url: 'https://github.com/bchiang7/BetaProfile.git',
     svn_url: 'https://github.com/bchiang7/BetaProfile',
-    homepage: 'https://BetaProfile.bchiang7.now.sh/',
+    homepage: 'https://betaprofile.glob4lh3ll.now.sh/',
     size: 7609,
     stargazers_count: 6,
     watchers_count: 6,
